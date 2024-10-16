@@ -1,0 +1,19 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+}
+.test{
+    background-color: blue;
+}
+.test1{
+    background-color: rgb(219, 17, 169);
+}
+.navbar{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: blueviolet;
+}
+*{
+    margin: 50px;
+}
